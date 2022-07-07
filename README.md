@@ -1,3 +1,5 @@
-# actividadgrupal-2
+
 Gonzalo
 Gretel Brunig
+Gonzalo Ferrari
+Gissel Ferrín
