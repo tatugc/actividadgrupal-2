@@ -1,2 +1,3 @@
 # actividadgrupal-2
-Gonzalo
+Gonzalo Caldoli
+Gonzalo Ferrari
