@@ -1,3 +1,4 @@
 # actividadgrupal-2
-Gonzalo Caldoli
+Gonzalo
 Gonzalo Ferrari
+Gissel Ferrín
